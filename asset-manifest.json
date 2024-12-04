@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jarries/static/css/main.952177aa.css",
-    "main.js": "/jarries/static/js/main.00230e9d.js",
+    "main.js": "/jarries/static/js/main.c01c2727.js",
     "index.html": "/jarries/index.html",
     "main.952177aa.css.map": "/jarries/static/css/main.952177aa.css.map",
-    "main.00230e9d.js.map": "/jarries/static/js/main.00230e9d.js.map"
+    "main.c01c2727.js.map": "/jarries/static/js/main.c01c2727.js.map"
   },
   "entrypoints": [
     "static/css/main.952177aa.css",
-    "static/js/main.00230e9d.js"
+    "static/js/main.c01c2727.js"
   ]
 }
